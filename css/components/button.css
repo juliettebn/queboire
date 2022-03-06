@@ -1,0 +1,22 @@
+.btn-blue {
+
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: rgb(64,38,12);
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 100px;
+}
+
+.btn-yellow {
+
+background-color: rgb(64,38,12);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	
+
+}
